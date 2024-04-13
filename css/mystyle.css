@@ -79,6 +79,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 55%;
+    align-self: center;
 }
 
 .steps{
